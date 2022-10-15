@@ -27,4 +27,5 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [be0x74a&#39;s first post!](https://be0x74a.io/first-post-of-be0x74a/)
 <!-- BLOG-POST-LIST:END -->
