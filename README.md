@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Diogo Vilela
 
-<!--
-**be0x74a/be0x74a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🧑 About me
 
-Here are some ideas to get you started:
+* 🔭 Sofware Engineer in Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/) and [SkyShowtime](https://www.skyshowtime.com/) streaming services
+* 📝 Wannabe tech blogger
+* 🧗‍♂️ Noob climber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Main Tech stack
+
+<p float="left">
+  <img src="img/spring.svg" alt="Spring" width="75"/>
+  <img src="img/java.svg" alt="Java" width="75"/>
+  <img src="img/kubernetes.svg" alt="K8s" width="75"/>
+  <img src="img/apache_kafka.svg" alt="Kafka" width="75"/>
+  <img src="img/apache_cassandra.svg" alt="Cassandra" width="75"/>
+</p>
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=be0x74a&count_private=true&show_icons=true&theme=discord_old_blurple)
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
