@@ -3,7 +3,7 @@
 ---
 ### 🧑 About me
 
-* 🔭 Sofware Engineer in Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/) and [SkyShowtime](https://www.skyshowtime.com/) streaming services
+* 🔭 Sofware Engineer at Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/) and [SkyShowtime](https://www.skyshowtime.com/) streaming services
 * 📝 Wannabe tech blogger
 * 🧗‍♂️ Noob climber
 
