@@ -27,5 +27,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The start of the open-source journey](https://be0x74a.io/the-start-of-the-open-source-journey/)
 - [be0x74a&#39;s first post!](https://be0x74a.io/first-post-of-be0x74a/)
 <!-- BLOG-POST-LIST:END -->
