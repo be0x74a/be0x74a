@@ -21,7 +21,31 @@
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=be0x74a&count_private=true&show_icons=true&theme=discord_old_blurple)
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
 
 ---
 
