@@ -3,9 +3,9 @@
 ---
 ### 🧑 About me
 
-* 🔭 Sofware Engineer at Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/) and [SkyShowtime](https://www.skyshowtime.com/) streaming services
-* 📝 Wannabe tech blogger
-* 🧗‍♂️ Noob climber
+* Senior Sofware Engineer at Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/), [SkyShowtime](https://www.skyshowtime.com/) and [Showmax](https://showmax.com/) streaming services
+* DevOps & Security enthusiast
+* Platform Engineering believer
 
 ---
 
@@ -46,11 +46,3 @@
 <a href="https://github.com/be0x74a">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The start of the open-source journey](https://be0x74a.io/the-start-of-the-open-source-journey/)
-- [be0x74a&#39;s first post!](https://be0x74a.io/first-post-of-be0x74a/)
-<!-- BLOG-POST-LIST:END -->
