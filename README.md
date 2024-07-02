@@ -3,7 +3,7 @@
 ---
 ### 🧑 About me
 
-* Senior Sofware Engineer at Sky working on the [NOW](https://www.nowtv.com/), [Peacock](https://www.peacocktv.com/), [SkyShowtime](https://www.skyshowtime.com/) and [Showmax](https://showmax.com/) streaming services
+* Senior Sofware Engineer at Nexthink
 * DevOps & Security enthusiast
 * Platform Engineering believer
 
