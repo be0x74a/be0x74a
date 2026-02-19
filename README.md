@@ -3,7 +3,7 @@
 ---
 ### 🧑 About me
 
-* Senior Sofware Engineer at Nexthink
+* Tech Lead at Nexthink
 * DevOps & Security enthusiast
 * Platform Engineering believer
 
