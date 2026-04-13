@@ -964,10 +964,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3307086614173227 0,1.3307086614173227 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3307086614173227 1.7,2.3307086614173227 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.622047244094488)">
+                            <g transform="translate(-3.4, 7.574803149606299)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.377952755905512 0,1.3779527559055118 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3779527559055118 1.7,2.377952755905512 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.425196850393701 0,1.425196850393701 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.425196850393701 1.7,2.425196850393701 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.811023622047244)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
