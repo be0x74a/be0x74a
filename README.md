@@ -11,7 +11,7 @@ The IC craft is the headline; the lead role is what happens when you stay close 
 Currently Tech Lead at [Nexthink](https://www.nexthink.com) in Lausanne, in the **Data Platform group** — leading a team of senior engineers responsible for the traffic in and out of the platform: endpoint ingestion, configuration distribution, and update delivery across **20M+ connected endpoints** globally. The work spans Kubernetes, Apache Kafka, and cloud-native Java microservices.
 
 The platform operates at:
-- **>1M messages/s** ingested from **19M+ devices**
+- **>1M messages/s** ingested from **20M+ devices**
 - **>150K notifications/s** delivered back to those devices
 
 Currently leading:
